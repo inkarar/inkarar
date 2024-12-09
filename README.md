@@ -1,10 +1,1 @@
-- 👋 Hey, I’m Nirakar Padhy
-- 👀 I’m interested in Mathematics and Machine Learning... Also Cricket and Movies
-- 🌱 I’m currently learning ML, AI, Cloud, Big data
-- 💞️ I’m looking to collaborate on Data Science/ML projects
-- 📫 Reach me at nirakarpadhy001@gmail.com
-
-<!---
-inkarar/inkarar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Nirakar Padhy is a results-driven Senior Data Scientist with a proven track record of leveraging advanced analytics and machine learning to drive business growth. He excels in crafting innovative solutions and implementing scalable ML pipelines that deliver measurable value. With deep proficiency in Python, Spark, AWS, SQL, and MLOps, Nirakar has built expertise in developing recommender systems, entity recognition models, and predictive algorithms. His work consistently achieves high accuracy rates, leading to significant cost reductions and impactful, data-driven insights that propel business success. Reach out to me on LinkedIn: https://www.linkedin.com/in/nirakar-padhy/
